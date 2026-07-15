@@ -5,6 +5,7 @@ plugins {
 
 android {
     compileSdk 34
+    namespace "com.shencoder.webrtcdemo"
 
     defaultConfig {
         applicationId "com.shencoder.webrtcdemo"
